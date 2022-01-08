@@ -1,5 +1,4 @@
-PRODUCT_PACKAGES += libdisplayconfig.system \
-                    libqdMetaData.system \
+PRODUCT_PACKAGES += libqdMetaData.system \
                     libgralloc.system.qti \
                     libdrm \
                     libsmomo.qti \
